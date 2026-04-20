@@ -1,4 +1,3 @@
-﻿# FUTURE_FS_01 - Full Stack Portfolio
 # FUTURE_FS_01 | Full-Stack Developer Portfolio
 
 ## 🚀 Overview
