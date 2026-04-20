@@ -11,7 +11,7 @@ export const projects = [
     desc: "View my professional journey, skills, and technical background.",
     color: "from-blue-600/20 to-cyan-500/20",
     image: null, // No image needed for the special Resume card
-    link: "", // Test PDF path
+    link: "/cv.pdf", // Test PDF path
     isResume: true,
   },
  
